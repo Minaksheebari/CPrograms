@@ -11,6 +11,7 @@ int main()
 	
 	(age>=18)?(printf("Eligible for Voting..!!")):(printf("NOT Eligible for Voting..!!"));
 	(age>=18)?(printf("Eligible for Voting..!!")):(printf("NOT Eligible for Voting..!!"));
+	(age>=18)?(printf("Eligible for Voting..!!")):(printf("NOT Eligible for Voting..!!"));
 
 
 	return 0;
